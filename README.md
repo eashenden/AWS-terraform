@@ -23,3 +23,9 @@ https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/inst
 https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/vpc
 https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/lb_listener
 https://stackoverflow.com/questions/9257514/amazon-elb-in-vpc
+https://stackoverflow.com/questions/55312783/how-do-you-do-simple-string-concatenation-in-terraform
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/route_table_association
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/route_table
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/eip
+https://www.youtube.com/watch?v=KGOI7IWQFks
+https://www.reddit.com/r/aws/comments/d6wkis/ec2_instance_without_public_ip_cant_access/
